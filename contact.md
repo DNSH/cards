@@ -4,14 +4,19 @@ title: Contact
 permalink: /contact/
 ---
 
+<ul>
+  <li>Send us an email at <a href="mailto: info@gbos.club"> info@gbos.club </a></li>
+  <li>Post on our Facebook Group</li>
+  <li>Message us on Slack</li>
+</ul>
 
-I would love to hear from you. Any query, any suggestion or feedback would be great! If you need a website, blog or portfolio site then please leave a message.
+<!-- I would love to hear from you. Any query, any suggestion or feedback would be great! If you need a website, blog or portfolio site then please leave a message.
 
 
 
 <form id="contact-form" class="form-horizontal" action="https://getsimpleform.com/messages?form_api_token=b6d4be9b039b666b3311e1ddcbfb577c" method="POST" enctype="multipart/form-data">
        <fieldset>
-       
+
             <div class="form-group">
                 <label class="col-lg-2 control-label" for="name">Name:</label>
                 <div class="col-lg-10">
@@ -30,8 +35,8 @@ I would love to hear from you. Any query, any suggestion or feedback would be gr
                 <textarea class="contact-textarea" placeholder="Your message" class="form-control" rows="4" id="message" name="message" tabindex="3"></textarea>
                 </div>
             </div>
-            
-           <div class="form-group"> 
+
+           <div class="form-group">
            <div class="col-lg-10 col-lg-offset-2">  
          <input type="submit" class="btn btn-primary" value="Send" id="submit"/>
          </div>
@@ -41,4 +46,4 @@ I would love to hear from you. Any query, any suggestion or feedback would be gr
 </form>
 
 
-This form is made functional by [SimpleForm](https://getsimpleform.com){: target="_blank"}. Read [How to create a form in Jekyll site](http://blog.webjeda.com/jekyll-contact-form/){: target="_blank"} to implement using formspree.
+This form is made functional by [SimpleForm](https://getsimpleform.com){: target="_blank"}. Read [How to create a form in Jekyll site](http://blog.webjeda.com/jekyll-contact-form/){: target="_blank"} to implement using formspree. -->

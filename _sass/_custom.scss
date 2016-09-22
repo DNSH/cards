@@ -1,2 +1,14 @@
+// Font variables
+$logo-font-name: "Libel Suit";
+$font-path-file-name: "/gbos-club/fonts/libel-suit.regular";
 
+// font_name font
+@font-face {
+  font-family: $logo-font-name;
+  src: url($font-path-file-name+'.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
 
+.navbar-title-text {
+  font-family: $logo-font-name;
+  color: $gb !important;
+}
