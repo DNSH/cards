@@ -8,7 +8,21 @@ $font-path-file-name: "/fonts/libel-suit.regular";
   src: url($font-path-file-name+'.ttf')  format('truetype'), /* Safari, Android, iOS */
 }
 
+.navbar {
+  background-color: #7577B9;
+  border-radius: 0px;
+  border: none;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+  color: white;
+}
+
 .navbar-title-text {
   font-family: $logo-font-name;
-  color: $gb !important;
+  color: white !important;
 }

@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to OpenSource!"
 date:   2017-01-20 10:51:47 +0530
-img: welcome.png
+img: gbc-stj.jpeg
 categories: [announcements, two]
 ---
 Welcome to the OpenSource Club at George Brown. Our club is dedicated to improving the educational experience for students in the School of Computer Studies.
