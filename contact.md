@@ -6,8 +6,8 @@ permalink: /contact/
 
 <ul>
   <li>Send us an email at <a href="mailto: info@gbos.club"> info@gbos.club </a></li>
-  <li>Post on our Facebook Group</li>
-  <li>Message us on Slack</li>
+  <li>Post on our <a href="https://www.facebook.com/groups/gbopensource/">Facebook group</a></li>
+  <li>Message us on our <a href="http://gbos.slack.com">Slack group</a></li>
 </ul>
 
 <!-- I would love to hear from you. Any query, any suggestion or feedback would be great! If you need a website, blog or portfolio site then please leave a message.

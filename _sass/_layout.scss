@@ -78,6 +78,13 @@ footer {
     border: 1px solid $grey-color-light;
 }
 
+.card {
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+}
+
 .post-img img {
     width: 100%;
 }
@@ -88,7 +95,7 @@ footer {
 }
 
 .hero-section {
-  height: 30vh;
+  height: 35vh;
   padding-top: 50px;
   padding-bottom: 50px;
 }
@@ -96,6 +103,11 @@ footer {
 .hero-text {
   margin: 0;
   text-align: center;
+}
+
+.centered{
+  display: block;
+  margin: 0 auto;
 }
 
 .pack {
@@ -113,6 +125,11 @@ footer {
     height: 40px;
     margin-top: 10px;
   }
+}
+
+.form-control {
+  border: 1px solid #929292;
+  border-radius: 5px !important;
 }
 
 .panel-title {

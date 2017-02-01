@@ -29,15 +29,15 @@ analytics:
 disqus-shortname: gbopensource
 
 #social
-facebook: http://facebook.com/webjeda
+facebook: https://www.facebook.com/groups/gbopensource/
 quora: http://quora.com/sharathdt
-twitter: http://twitter.com/@webjeda
-github: http://github.com/webjeda
+twitter: https://twitter.com/gbcollege
+github: http://github.com/DNSH
 slack: http://gbos.slack.com
 
 #facebook like box
 fb-app-id:
-fb-page-url:
+fb-page-url: 
 fb-page-title: SCIT Students
 
 
