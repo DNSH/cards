@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Connect with Slack!"
+title:  "Connect with us on Slack!"
 categories: jekyll update
 img: slack.jpg
 date: 2017-01-20 12:52:47 +0530
