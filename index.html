@@ -4,6 +4,26 @@ layout: default
 
 <div class="home">
 
+  <div class="row hero-section">
+    <div class="row">
+      <div class="col-sm-8">
+        <h1 class="hero-text">Register for the OpenSource Club today!</h1>
+      </div>
+      <div class="col-sm-4">
+        <form action="https://formspree.io/info@gbos.club"
+            method="POST" class="registration-form input-group">
+          <input class="form-control"  type="text" name="name" placeholder="Full Name">
+          <input  class="form-control" type="email" name="_replyto" placeholder="Email">
+          <br>
+          <input class="btn btn-md btn-success" type="submit" value="Register">
+        </form>
+      </div>
+    </div>
+
+  </div>
+
+  <hr>
+
 
     <div class="row pack">
 
@@ -19,8 +39,8 @@ layout: default
                   {% else %}
                   <img width="100%" src="{{site.baseurl}}/images/webjeda-logo-big.jpg" alt="{{site.title}}">
                   {% endif %}
-                  <div class="panel-body"><small>
-                    {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</small>
+                  <div class="panel-body"><p class="post-body">
+                    {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</p>
                     <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-primary btn-sm color-gb pull-right mt10">Read</a>
                   </div>
                 </div>

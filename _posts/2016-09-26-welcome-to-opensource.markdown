@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to OpenSource!"
-date:   2016-09-20 10:51:47 +0530
+date:   2017-01-20 10:51:47 +0530
 img: welcome.png
 categories: [announcements, two]
 ---

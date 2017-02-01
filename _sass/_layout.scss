@@ -2,6 +2,10 @@ img {
     max-width: 100%;
 }
 
+.white {
+  color: white;
+}
+
 .color-gb {
   background-color: #0065A4;
 }
@@ -78,10 +82,47 @@ footer {
     width: 100%;
 }
 
+.home {
+  width: 80vw;
+  margin: 0 auto;
+}
+
+.hero-section {
+  height: 30vh;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.hero-text {
+  margin: 0;
+  text-align: center;
+}
 
 .pack {
     display: inline-flex;
     flex-wrap: wrap;
+    width: 80vw;
+    margin: 0 auto;
+}
+
+.registration-form{
+  text-align: center;
+  margin: 0 auto;
+
+  input {
+    height: 40px;
+    margin-top: 10px;
+  }
+}
+
+.panel-title {
+  display: block;
+  height: 50px;
+}
+
+.post-body {
+  font-size: 14px;
+  height: 110px;
 }
 
 .card {
