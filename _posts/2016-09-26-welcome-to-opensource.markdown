@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to OpenSource!"
-date:   2017-01-20 10:51:47 +0530
+date:   2018-01-20 10:51:47 +0530
 img: gbc-stj.jpeg
 categories: [announcements, two]
 ---
